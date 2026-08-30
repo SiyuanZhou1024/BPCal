@@ -19,17 +19,6 @@ scipy=1.13.1
 scikit-learn=1.6.1
 ```
 
-The loaders for raw `.loom`, `.h5ad` and 10x Visium files need a few more. They
-are imported lazily, so BPCal runs without them if your data is already in
-memory.
-
-```
-scanpy=1.10.3
-anndata=0.10.9
-h5py=3.14.0
-pandas=2.3.3
-```
-
 ## Installation
 
 Install from GitHub
