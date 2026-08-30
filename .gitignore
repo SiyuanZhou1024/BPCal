@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Source figure (vector original, not needed in the repo)
+imgs/*.pdf
+
+# R prototype (not part of the release)
+R/
