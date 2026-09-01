@@ -1,5 +1,13 @@
 <h1 align="center">BPCal: Boundary-aware Prototype Calibration for Spatial Domain Identification in Spatial Transcriptomics</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license">
+      <img src="https://img.shields.io/badge/python-%3E%3D3.8-blue" alt="python">
+        <img src="https://img.shields.io/badge/numpy-%3E%3D1.22-blue" alt="numpy">
+          <img src="https://img.shields.io/badge/scipy-%3E%3D1.8-blue" alt="scipy">
+            <img src="https://img.shields.io/badge/scikit--learn-%3E%3D1.1-orange" alt="scikit-learn">
+</p>
+
 **We are actively updating this repository! More features/examples/experiments coming soon!**
 
 ## Overview
