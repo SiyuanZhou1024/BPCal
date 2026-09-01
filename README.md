@@ -74,4 +74,4 @@ pytest
 The tests verify the core implementation and reproducibility across different k-NN backends.
 
 ## Contact
-If you have any questions or would like to discuss the method or implementation, please contact us at sorenyuan_zhou@126.com. The code will be continuously updated and maintained. If you find the ideas and methodology useful, you are welcome to follow the author’s homepage for future open-source projects and updates.
+If you have any questions or would like to discuss the method or implementation, please contact us at sorenyuan_zhou@126.com or soren.zhou@outlook.com. The code will be continuously updated and maintained. If you find the ideas and methodology useful, you are welcome to follow the author’s homepage for future open-source projects and updates.
