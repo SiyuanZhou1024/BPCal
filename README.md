@@ -1,4 +1,7 @@
-<h1 align="center">BPCal: Boundary-aware Prototype Calibration for Spatial Domain Identification in Spatial Transcriptomics</h1>
+<h1 align="center">
+  <a href="https://doi.org/10.1016/j.patcog.2026.115174">BPCal: Boundary-aware Prototype Calibration for Spatial Domain Identification in Spatial Transcriptomics</a>
+</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license">
