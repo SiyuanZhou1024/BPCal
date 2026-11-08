@@ -50,27 +50,14 @@ tests/            unit tests
 
 ## Datasets
 
-All datasets used in this paper are publicly available. Users can download them from the links below.
+BPCal has been evaluated on four benchmark datasets from three platforms (osmFISH, STARmap and 10x Visium), covering the mouse somatosensory cortex, the mouse visual cortex, the mouse medial prefrontal cortex and the human dorsolateral prefrontal cortex. All datasets are publicly available and can be downloaded from the links below.
 
-**osmFISH**
-
-- The primary source: [Linnarsson Lab osmFISH](http://linnarssonlab.org/osmFISH/)
-- The processed version: [drieslab/spatial-datasets](https://github.com/drieslab/spatial-datasets) - or [SODB](https://gene.ai.tencent.com/SpatialOmics/): `codeluppi2018spatial` / `cortex`
-
-**MVC**
-
-- The primary source: [SODB](https://gene.ai.tencent.com/SpatialOmics/): `Wang2018Three_1k` / `mouse_brain_STARmap`
-- The processed version: [STARmap datasets on Figshare](https://doi.org/10.6084/m9.figshare.22565209.v1)
-
-**MPFC**
-
-- The primary source: [SODB](https://gene.ai.tencent.com/SpatialOmics/): `Dataset11_MS_process` / `Dataset11_BZ5`, `Dataset11_BZ9`, `Dataset11_BZ14`
-- The processed version: [BASS-Analysis starmap_mpfc.RData](https://github.com/zhengli09/BASS-Analysis/blob/master/data/starmap_mpfc.RData)
-
-**DLPFC**
-
-- The primary source: [LieberInstitute/HumanPilot](https://github.com/LieberInstitute/HumanPilot) - or [SODB](https://gene.ai.tencent.com/SpatialOmics/): `maynard2021trans` / `151507`...`151676`
-- The processed version: [LieberInstitute/spatialLIBD](https://github.com/LieberInstitute/spatialLIBD)
+| Dataset | Tissue | Platform | Primary source | Processed version | Reference |
+|:--|:--|:--|:--|:--|:--|
+| osmFISH | Mouse somatosensory cortex | osmFISH | [Linnarsson Lab](http://linnarssonlab.org/osmFISH/) | [drieslab/spatial-datasets](https://github.com/drieslab/spatial-datasets) · [SODB](https://gene.ai.tencent.com/SpatialOmics/) (`codeluppi2018spatial`) | [Codeluppi et al., 2018](https://doi.org/10.1038/s41592-018-0175-z) |
+| MVC | Mouse visual cortex | STARmap | [SODB](https://gene.ai.tencent.com/SpatialOmics/) (`Wang2018Three_1k`) | [Figshare](https://doi.org/10.6084/m9.figshare.22565209.v1) | [Wang et al., 2018](https://doi.org/10.1126/science.aat5691) |
+| MPFC | Mouse medial prefrontal cortex | STARmap | [SODB](https://gene.ai.tencent.com/SpatialOmics/) (`Dataset11_MS_process`) | [BASS-Analysis](https://github.com/zhengli09/BASS-Analysis/blob/master/data/starmap_mpfc.RData) | [Wang et al., 2018](https://doi.org/10.1126/science.aat5691) |
+| DLPFC | Human dorsolateral prefrontal cortex | 10x Visium | [HumanPilot](https://github.com/LieberInstitute/HumanPilot) · [SODB](https://gene.ai.tencent.com/SpatialOmics/) (`maynard2021trans`) | [spatialLIBD](https://github.com/LieberInstitute/spatialLIBD) | [Maynard et al., 2021](https://doi.org/10.1038/s41593-020-00787-0) |
 
 ## Tutorial
 
