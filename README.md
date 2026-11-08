@@ -86,7 +86,7 @@ The tests verify the core implementation and reproducibility across different k-
 
 ## Citation
 
-If you find our work meaningful or interesting, please cite our paper:
+If you find our work meaningful or interesting, we would greatly appreciate it if you could cite our paper:
 
 > Siyuan Zhou, Wenzhe Liu, Xin Zhang, Jingjing Wang, Xi Yang, Xiaohuan Lu, Shi Pu, Chengyao Sun, Jie Wen. BPCal: Boundary-aware Prototype Calibration for spatial domain identification in spatial transcriptomics. *Pattern Recognition*, 184 (2027) 115174. https://doi.org/10.1016/j.patcog.2026.115174
 
