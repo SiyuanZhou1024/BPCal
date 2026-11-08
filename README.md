@@ -84,5 +84,23 @@ pytest
 
 The tests verify the core implementation and reproducibility across different k-NN backends.
 
+## Citation
+
+If you find our work meaningful or interesting, please cite our paper:
+
+> Siyuan Zhou, Wenzhe Liu, Xin Zhang, Jingjing Wang, Xi Yang, Xiaohuan Lu, Shi Pu, Chengyao Sun, Jie Wen. BPCal: Boundary-aware Prototype Calibration for spatial domain identification in spatial transcriptomics. *Pattern Recognition*, 184 (2027) 115174. https://doi.org/10.1016/j.patcog.2026.115174
+
+```bibtex
+@article{zhou2027bpcal,
+  title   = {{BPCal}: Boundary-aware Prototype Calibration for spatial domain identification in spatial transcriptomics},
+  author  = {Zhou, Siyuan and Liu, Wenzhe and Zhang, Xin and Wang, Jingjing and Yang, Xi and Lu, Xiaohuan and Pu, Shi and Sun, Chengyao and Wen, Jie},
+  journal = {Pattern Recognition},
+  volume  = {184},
+  pages   = {115174},
+  year    = {2027},
+  doi     = {10.1016/j.patcog.2026.115174}
+}
+```
+
 ## Contact
 If you have any questions or would like to discuss the method or implementation, please contact us at soren.zhou@outlook.com. The code will be continuously updated and maintained. If you find the ideas and methodology useful, you are welcome to follow the author’s homepage for future open-source projects and updates.
